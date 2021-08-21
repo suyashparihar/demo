@@ -14,7 +14,7 @@
 	<name>Demo1_git</name>
 	<description>Demo1_git SpringBoot Application Demo</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
